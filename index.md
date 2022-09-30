@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGA8lViFsP1jw/profile-displayphoto-shrink_400_400/0/1520375830341?e=1666828800&v=beta&t=KZw7eyfFAg9nccTwTyPUvr1Sdvla2X6ptcjpyK-Gg7M" alt="Laurel Profile pic">
+<h1> Laurel Jones </h1>
+<h2> Technical Writing Manager </h2>
+<h3> Contact </h3>
+<ul>
+  <li> <a href="https://www.linkedin.com/in/laurel-jones-211b4173/"> LinkedIn </a></li>
+  <li> laurel.l.jones@gmail.com</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/laurellouise/laurellouise.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- br is for a line break; hr is for the line itself; different attributes of the line are now deprecated -->
+<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3> Education </h3>
+<ul>
+  <li> UT Chattanooga </li>
+  <li> UNC Wilmington </li>
+</ul>
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3> My hobbies </h3>
+<ol>
+  <li> Reading </li>
+  <li> Dog training </li>
+  <li> Cooking </li>
+  <li> Personal finance </li>
+</ol>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurellouise/laurellouise.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
