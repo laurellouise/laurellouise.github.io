@@ -16,7 +16,7 @@
   <li> UNC Wilmington </li>
 </ul>
 
-<br>
+<hr>
 
 <h3> My hobbies </h3>
 <ol>
